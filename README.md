@@ -1,6 +1,9 @@
 johnnys-node-static
 ===================
 
+# DEPCREATION NOTICE
+The support for this module ended. Use the new [`statique`](https://github.com/IonicaBizau/node-statique) module instead.
+
 Simplified version of node-static module.
 
 ![](https://nodei.co/npm/johnnys-node-static.png)
